@@ -58,3 +58,5 @@ gem 'jquery-rails'
 gem 'therubyracer', '~> 0.12.3'
 
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
+
+ruby "2.4.2"
